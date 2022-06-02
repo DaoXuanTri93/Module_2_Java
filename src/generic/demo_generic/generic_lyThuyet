@@ -1,0 +1,10 @@
+Generic được hiểu là tham số hóa kiểu dữ liệu.
+    -Nhằm giúp cho lập trình bắt lỗi kiểu dữ liệu không hợp lệ
+    -Đồng thời giúp dễ dàng tạo và sử dụng các
+        class, interface hay method với nhiểu kiểu dữ liệu khác nhau
+
+T (Type) : kiểu dữ liệu.
+E (Element): phần tử trong mảng.
+N (Number): Số.
+V (Value) : Giá trị
+...

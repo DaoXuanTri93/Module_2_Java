@@ -1,0 +1,3 @@
+LinkedList : Danh sách liên kết
+là 1 cấu trúc dữ liệu lưu trữ các phần tử dưới dạng danh sách,
+các phần tử trong LinkedList được sắp xếp có thứ tự và có thể có giá trị giống nhau.

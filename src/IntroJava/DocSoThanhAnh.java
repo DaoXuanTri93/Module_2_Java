@@ -1,6 +1,6 @@
 
 
-package OOP;
+package IntroJava;
 
 import java.util.Scanner;
 
